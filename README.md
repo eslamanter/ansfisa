@@ -8,8 +8,10 @@ Output: All'avvio dell'exe vengono aggiunti altre due colonne che rapprensentano
 Esempio 50.txt:
 ```
 33.350    100.000
+22.000    110.000
 ```
 Risultato:
 ```
 33.350    100.000    100    50
+22.000    110.000    45    45
 ```
