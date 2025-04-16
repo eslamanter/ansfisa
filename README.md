@@ -1,4 +1,4 @@
-# ansfisa
+# ANSF_S950_RangoC_LR-DV
 Genera la sopraelevazione ferroviaria minima dalla normativa ANSFISA per S=950 Rango C.
 
 Input: File .txt nominato con la velocità massima contenente su ogni riga i dati tabulati della lunghezza della transizione e il raggio della curva.
