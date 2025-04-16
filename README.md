@@ -5,11 +5,10 @@ Input: File .txt nominato con la velocità massima contenente su ogni riga i dat
 Output: All'avvio dell'exe vengono aggiunti altre due colonne che rapprensentano la sopraelevazione minima e la velocità massima ammissibile.
 
 Esempio 50.txt:
-
 ```
 33.350    100.000
 ```
-
+Risultato:
 ```
 33.350    100.000    100    50
 ```
